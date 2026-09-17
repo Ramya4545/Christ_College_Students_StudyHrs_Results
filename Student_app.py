@@ -34,7 +34,7 @@ study_hours = st.number_input(
     value=5.0,
     step=0.5
 )
-
+'''
 attendance = st.number_input(
     "Attendance (%)",
     min_value=0.0,
@@ -42,7 +42,7 @@ attendance = st.number_input(
     value=75.0,
     step=1.0
 )
-
+'''
 # -----------------------------
 # Prediction
 # -----------------------------
